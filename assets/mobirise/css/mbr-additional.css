@@ -2422,42 +2422,6 @@ body {
 .cid-rg9R0UWSBa .mbr-text {
   color: #cb7575;
 }
-.cid-rg9R40kLsN {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rg9R40kLsN .counter-container {
-  color: #767676;
-}
-.cid-rg9R40kLsN .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rg9R40kLsN .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rg9R40kLsN .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rg9R40kLsN .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #9b8281;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
 .cid-rg9Rx4XigD {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -2503,10 +2467,55 @@ body {
 }
 .cid-rg9Rx4XigD .item-name {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rg9Rx4XigD .item-role P {
-  text-align: center;
+  text-align: left;
   color: #ffffff;
+}
+.cid-rgrEtf8beY {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/63511-2000x1335.jpg");
+}
+.cid-rgrEtf8beY .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rgrEtf8beY .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rgrEtf8beY .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rgrEtf8beY .team-item .item-image img {
+  width: 100%;
+}
+.cid-rgrEtf8beY .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rgrEtf8beY .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rgrEtf8beY .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rgrEtf8beY .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rgrEtf8beY .team-item .item-caption {
+  background: #f1bbba;
+}
+.cid-rgrEtf8beY .item-name {
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rg9bty8LcS {
   padding-top: 45px;
