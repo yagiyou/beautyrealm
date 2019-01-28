@@ -2994,7 +2994,7 @@ body {
   padding-top: 1.5rem;
 }
 .cid-rga4SvYo6Q .mbr-text {
-  color: #767676;
+  color: #9b8281;
 }
 .cid-rga4SvYo6Q .card-wrapper {
   height: 100%;
@@ -3007,6 +3007,9 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rga4SvYo6Q .card-title {
+  color: #cb7575;
+}
 .cid-rgpGsGvQdp {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3016,7 +3019,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rgpGsGvQdp .mbr-section-subtitle {
-  color: #eb9f9f;
+  color: #cb7575;
 }
 .cid-rgpGsGvQdp a:not([href]):not([tabindex]) {
   color: #fff;
