@@ -2420,7 +2420,7 @@ body {
   }
 }
 .cid-rg9R0UWSBa .mbr-text {
-  color: #767676;
+  color: #cb7575;
 }
 .cid-rg9R40kLsN {
   padding-top: 60px;
@@ -2453,7 +2453,7 @@ body {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #9b8281;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -3006,61 +3006,6 @@ body {
 .cid-rga4SvYo6Q .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
-}
-.cid-rga54nFU7W {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #177396, #ca2955);
-}
-.cid-rga54nFU7W .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-rga54nFU7W .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-rga54nFU7W .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-rga54nFU7W .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rga54nFU7W .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rga54nFU7W .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rga54nFU7W .plan-header,
-.cid-rga54nFU7W .plan-body {
-  background-color: #fff;
-}
-.cid-rga54nFU7W .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-rga54nFU7W .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rga54nFU7W .price-figure {
-    font-size: 4.25rem;
-  }
 }
 .cid-rfut3RqDu2 .navbar {
   background: #ffffff;
