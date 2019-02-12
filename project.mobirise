@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 87,
+    "uniqCompNum": 88,
     "versionPublish": "4.9.2",
     "screenshot": "screenshot.png"
   },
@@ -2095,7 +2095,8 @@
               "color": "#767676"
             },
             "H2": {
-              "color": "#cb7575"
+              "color": "#cb7575",
+              "text-align": "left"
             }
           },
           "_name": "content4",
@@ -2121,7 +2122,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>課程內容：<br>甘皮護理，手部保養，足部保養，去角質，深層護理</b></span></p><p><b style=\"font-style: normal;\">初估費用25000~35000元\u001a| 含器材，材料費用</b></p><p><b><span style=\"font-style: normal;\">$25000(材:C) &nbsp; $35000(材:B)</span></b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>課程內容：<br><br>甘皮護理，手部保養，足部保養，去角質，深層護理</b></span></p><p><b style=\"font-style: normal;\">初估費用：25000~35000元｜</b><b style=\"font-style: normal;\">含器材，材料費用</b></p><p><span style=\"font-style: normal;\"><b>$25000（材：</b>C<b>） &nbsp; $35000（材：</b>B<b>）</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhPqd7dNZF",
           "_anchor": "content2-2e",
           "_protectedParams": [],
@@ -2138,7 +2139,8 @@
               "color": "#767676"
             },
             "H2": {
-              "color": "#cb7575"
+              "color": "#cb7575",
+              "text-align": "left"
             }
           },
           "_name": "content4",
@@ -2166,7 +2168,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>基本保養 - 甘皮護理，手部保養，足部保養，去角質，深層護理</b></span><br><br><span style=\"font-style: normal;\"><b>專業凝膠 （三項）- &nbsp;1.基本，前置，透明底膠\n<br><span style=\"color: rgb(118, 118, 118); font-size: 1.09rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.延甲&nbsp;<br></span><span style=\"color: rgb(118, 118, 118); font-size: 1.09rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.單色，漸層</span></b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>課程內容：<br><br>基本保養 - 甘皮護理，手部保養，足部保養，去角質，深層護理</b></span><br><br><span style=\"font-style: normal;\"><b>專業凝膠 </b>（三項）<b>- &nbsp;1. 基本、前置、透明底膠。&nbsp;</b><b>2. 延甲。 &nbsp;3. 單色、漸層<br><br>初估費用：55000~65000元 ｜含器材，材料費用<br><br>$55000（材：Ｃ）       $65000  （材：Ｂ＋Ｒ）<br></b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhPq5dPypB",
           "_anchor": "content2-28",
           "_protectedParams": [],
@@ -2183,7 +2185,8 @@
               "color": "#767676"
             },
             "H2": {
-              "color": "#cb7575"
+              "color": "#cb7575",
+              "text-align": "left"
             }
           },
           "_name": "content4",
@@ -2208,7 +2211,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b style=\"font-style: normal;\">基本保養 - 甘皮護理，手部保養，足部保養，去角質，深層護理<br><br>專業凝膠 </b><span style=\"font-style: normal;\">（三項）</span><b style=\"font-style: normal;\">- &nbsp;1. 基本，前置，透明底膠<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2. 延甲<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3. 單色，漸層<br><br>專業彩繪&nbsp;</b><span style=\"font-style: normal;\">（三項）隨當季流行更換</span></p><p><span style=\"font-style: normal;\"><b>初估費用55000~65000元 | &nbsp;含器材，材料費用</b></span></p><p><span style=\"font-style: normal;\"><b>$55000（材：Ｃ） &nbsp; &nbsp; &nbsp; $65000 &nbsp;（材：Ｂ＋Ｒ）&nbsp;</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>課程內容：<br><br>基本保養 - 甘皮護理，手部保養，足部保養，去角質，深層護理<br><br>專業凝膠 </b>（三項）<b>- &nbsp;1. 基本，前置，透明底膠。 2. 延甲。 3. 單色、漸層<br><br>專業彩繪&nbsp;</b>（三項）隨當季流行更換</span></p><p><b style=\"font-style: normal;\">初估費用：55000~65000元</b><span style=\"font-style: normal;\"><b>｜</b></span><b style=\"font-style: normal;\">含器材，材料費用</b></p><p><b style=\"font-style: normal;\">$55000（材：Ｃ） &nbsp; &nbsp; &nbsp; $65000 &nbsp;（材：Ｂ＋Ｒ）&nbsp;</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhPqbSlQGI",
           "_anchor": "content2-2c",
           "_protectedParams": [],
